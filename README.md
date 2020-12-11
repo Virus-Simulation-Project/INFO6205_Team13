@@ -1,4 +1,8 @@
 # INFO6205_Team13
+Team Member: 
+Pei-Ling Chiang, 001533847
+Wenxiao Zhao, 001084868
+
 This project must be implemented in GreenFoot IDE to see the GUI.
 You can download GreenFoot here: https://www.greenfoot.org/download.
 
